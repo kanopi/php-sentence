@@ -407,7 +407,7 @@ class Sentence
     public function split($text, $flags = 0)
     {
         static $pipeline = [
-            'replaceFloatNumbers',
+//            'replaceFloatNumbers',
             'punctuationSplit',
             'parenthesesMerge', // also works after punctuationMerge or abbreviationMerge
             'punctuationMerge',
