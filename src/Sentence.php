@@ -418,7 +418,7 @@ class Sentence
         ];
 
         // clean funny quotes
-        $text = Multibyte::cleanUnicode($text);
+//        $text = Multibyte::cleanUnicode($text);
 
         // Split
         $sentences = [];
