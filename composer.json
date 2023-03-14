@@ -1,5 +1,5 @@
 {
-  "name": "vanderlee/php-sentence",
+  "name": "kanopi/php-sentence",
   "description": "Simple text sentence splitting and counting. Supports atleast english, german and dutch, possibly more.",
   "type": "library",
   "keywords": [
